@@ -1,0 +1,2 @@
+person_notwearing:2
+person_wearing:0

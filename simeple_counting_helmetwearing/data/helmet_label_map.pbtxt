@@ -1,0 +1,14 @@
+item {
+  id: 1
+  display_name: "people_notwearing"
+}
+item {
+  id: 2
+  display_name: "people_wearinghelmet"
+}
+item {
+  id: 3  display_name: "License_plate"
+}
+
+
+
